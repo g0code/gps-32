@@ -40,4 +40,4 @@ jobs:
         python test.py
     - name: Coverage
       run: |
-        coverage run -m test.py
+        coverage run -m test
